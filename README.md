@@ -4,4 +4,4 @@
 
 ## 算法学习
 
-- [算法-CV&医学图像](1. 算法-CV&医学图像.md)
+- [算法-CV&医学图像](https://github.com/tony0914/Materials-MIPAV/blob/master/1.%20%E7%AE%97%E6%B3%95-CV%26%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F.md)
